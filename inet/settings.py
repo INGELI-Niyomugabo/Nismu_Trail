@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-sj^v7q+h%l(*q2t^axg+(^prkweagnvu+6k6sw!q+$606xphbk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nismu-trail-s0uo.onrender.com']
 
 
 # Application definition
